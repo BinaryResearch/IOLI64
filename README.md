@@ -10,7 +10,7 @@ An approximation of the source code of the original IOLI binaries was created wi
 
 Example use cases of the source code in this repository:
  - assisting newcomers to reverse engineering with understanding disassembled machine code
- - the code can be modified to create new crackme variants
+ - the source code can be modified to create new crackme variants
  - a different compiler toolchain such as Clang can be used to build the binaries instead of GCC
  - these programs can be ported to other architectures such as MIPS or ARM
  
